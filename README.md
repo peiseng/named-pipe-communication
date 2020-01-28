@@ -4,7 +4,7 @@
 1. Sent Data from Python Server to Python Client.
 
 ### Future Plan:
-1. Sent Data from Python Server to C++ Client. 
+1. Send Data from Python Server to C++ Client. 
 2. Send Data from C++ Server to Python Client. 
 
 Stay Tuned! 

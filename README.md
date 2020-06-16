@@ -1,6 +1,9 @@
 # Named Pipe Communication
 
-### What Have Covered So Far: 
+### What Is This About?
+Refer to https://medium.com/datadriveninvestor/named-pipes-communication-between-python-server-and-python-client-on-window-8cdf64504801 for more information. 
+
+### What Have Been Covered So Far: 
 1. Sent Data from Python Server to Python Client.
 
 ### Future Plan:
